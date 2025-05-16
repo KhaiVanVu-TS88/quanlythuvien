@@ -28,7 +28,7 @@
 ├── book.h           # Khai báo hàm cho book.c
 ├── auth.txt         # Lưu thông tin tài khoản (username|password|role)
 ├── book.txt         # Lưu thông tin sách (id|tên|tác giả|năm|số lượng)
-
+```
 ## 🚀 Hướng phát triển (Đơn giản)
 
 🧾 **Thêm chức năng mượn/trả sách**  
