@@ -1,0 +1,5 @@
+admin|admin123|admin
+user1|123456|user
+user2|abc123|user
+user3|password|user
+user4|user4123|user

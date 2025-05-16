@@ -1,0 +1,10 @@
+1|De men phieu luu ky|To Hoai|2000|5
+2|Lao hac|Nam Cao|1995|33
+3|Chi Pheo|Nam Cao|1941|20
+4|Tat den|Ngo Tat To|1939|12
+5|So do|Vu Trong Phung|1936|8
+6|Toi thay hoa vang tren co xanh|Nguyen Nhat Anh|2010|15
+7|Mat biec|Nguyen Nhat Anh|1990|10
+8|Dac nhan tam|Dale Carnegie|1936|25
+9|Nhat ky trong tu|Ho Chi Minh|1942|30
+10|Harry Potter va Hon da Phu thuy|J.K. Rowling|1997|50
