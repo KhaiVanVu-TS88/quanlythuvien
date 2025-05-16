@@ -13,7 +13,7 @@
 - ➕ Thêm sách mới
 - ✏️ Sửa thông tin sách
 - ❌ Xóa sách
-- 🔍 Tìm kiếm sách theo tiêu chí
+- 🔍 Tìm kiếm sách theo id
 
 ### Chức năng cho User
 - 📖 Xem danh sách sách
