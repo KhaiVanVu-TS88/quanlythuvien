@@ -1,4 +1,4 @@
-# 📚 Dự án Quản Lý Thư Viện - C Console App
+# 📚 Dự án hệ thống quản Lý Thư Viện - C Console App
 Đây là dự án quản lý thư viện đơn giản được xây dựng bằng ngôn ngữ lập trình C. Ứng dụng hoạt động trên nền **giao diện dòng lệnh (console)** và hỗ trợ **phân quyền người dùng** gồm `admin` và `user`.
 ---
 ## ✅ Tính năng chính
