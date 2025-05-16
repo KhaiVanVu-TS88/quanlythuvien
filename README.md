@@ -37,9 +37,6 @@ Cho phép người dùng mượn sách và lưu thông tin mượn (tên sách, 
 📁 **Lưu lịch sử mượn sách**  
 Ghi lịch sử mượn/trả sách vào file `borrow_history.txt` để theo dõi.
 
-🔐 **Ẩn mật khẩu khi nhập**  
-Bảo mật thông tin tài khoản khi người dùng nhập mật khẩu (hiển thị dấu `*` hoặc không hiển thị gì).
-
 🔍 **Tìm kiếm theo nhiều tiêu chí**  
 Cho phép tìm sách theo tên, tác giả, hoặc năm xuất bản.
 
