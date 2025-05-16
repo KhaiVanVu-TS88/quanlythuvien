@@ -29,7 +29,7 @@
 ├── auth.txt         # Lưu thông tin tài khoản (username|password|role)
 ├── book.txt         # Lưu thông tin sách (id|tên|tác giả|năm|số lượng)
 ```
-## 🚀 Hướng phát triển (Đơn giản)
+## 🚀 Hướng phát triển
 
 🧾 **Thêm chức năng mượn/trả sách**  
 Cho phép người dùng mượn sách và lưu thông tin mượn (tên sách, ngày mượn, ngày trả).
