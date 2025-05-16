@@ -28,3 +28,23 @@
 ├── book.h           # Khai báo hàm cho book.c
 ├── auth.txt         # Lưu thông tin tài khoản (username|password|role)
 ├── book.txt         # Lưu thông tin sách (id|tên|tác giả|năm|số lượng)
+
+## 🚀 Hướng phát triển (Đơn giản)
+
+🧾 **Thêm chức năng mượn/trả sách**  
+Cho phép người dùng mượn sách và lưu thông tin mượn (tên sách, ngày mượn, ngày trả).
+
+📁 **Lưu lịch sử mượn sách**  
+Ghi lịch sử mượn/trả sách vào file `borrow_history.txt` để theo dõi.
+
+🔐 **Ẩn mật khẩu khi nhập**  
+Bảo mật thông tin tài khoản khi người dùng nhập mật khẩu (hiển thị dấu `*` hoặc không hiển thị gì).
+
+🔍 **Tìm kiếm theo nhiều tiêu chí**  
+Cho phép tìm sách theo tên, tác giả, hoặc năm xuất bản.
+
+🧑‍💼 **Cập nhật thông tin tài khoản**  
+Cho phép người dùng đổi mật khẩu hoặc sửa tên tài khoản.
+
+🧹 **Cải thiện giao diện dòng lệnh**  
+Thêm màu sắc, khung menu, hoặc làm sạch màn hình khi chuyển menu để dễ sử dụng hơn.
