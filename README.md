@@ -20,7 +20,6 @@
 - 🔍 Tìm kiếm sách
 
 ## 📂 Cấu trúc tệp
----
 ```bash
 ├── main.c           # Chứa hàm main và menu chính
 ├── auth.c           # Xử lý đăng nhập, đăng ký
